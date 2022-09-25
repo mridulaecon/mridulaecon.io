@@ -1,0 +1,30 @@
+####################### Spotlight #########################
+style: "style1 orient-center content-align-center image-position-center onscroll-image-fade-in"
+id: "third"
+title : "Teaching"
+button: 
+  label: "Teaching Statement"
+  link: "uploads/TS.pdf"
+content: |
+    <h4><b>Teaching Assistant, Macroeconomics II </b> </h4>
+    IDEA PhD Programme, Universitat Autònoma de Barcelona <br>
+    Instructor: Francesc Obiols, Winter 2020-2021 <br>
+    Instructor: Nezih Guner, Winter 2021-2022 <br>
+    Instructor: Alexander Ludwig, Winter 2022-2023 (scheduled) <br>
+    <br>
+    
+    <h4><b>Teaching Assisstant, Foundations in Equilibrium Analysis </b> </h4>
+    Barcelona School of Economics <br>
+    MSc Macroeconomic Policy and Financial Markets, Autumn 2021-22 <br>
+    Instructors: Esther Hauk & Hugo Rodriquez <br>
+    <br>
+    
+    <h4><b>Teaching Assisstant, Macroeconomics</b></h4>
+    Barcelona School of Economics <br>
+    MSc Macroeconomic Policy and Financial Markets, Autumn 2021-22 <br>
+    Instructors: Francesc Obiols & Juan Manuel Figueres <br>
+
+    <br>
+    <i>Teaching evaluations available upon request.</i>
+
+

@@ -1,0 +1,17 @@
+baseurl: https://mridulaecon.github.io
+title: Mridula Duggal
+theme: hugo-story
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+  - section
+Params:
+  description: Updated Job Market Website
+  favicon: yes
+  logo: images/np.png
+  social:
+    email: mridula.duggal@bse.eu
+    github: https://github.com/mridulaecon/
+    linkedin: https://www.linkedin.com/in/mridula-duggal-72818b76/
+    twitter: https://twitter.com/Mridgyy
+    

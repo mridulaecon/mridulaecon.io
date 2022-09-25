@@ -1,0 +1,8 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-center image-position-center onscroll-image-fade-in"
+id: "second"
+title : "CV"
+content: |
+ You can find a copy of my CV below. <ul><a href="uploads/MD_CV.pdf" class="button icon solid fa-download">PDF</a> </ul>
+ 
+ 

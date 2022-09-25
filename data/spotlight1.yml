@@ -1,0 +1,31 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Research"
+content: |
+   <dl>
+      <dt>Targeting Inflation Expectations? <h5> Job Market Paper </h5> </dt> 
+        <dd>
+      <p> <strong>Abstract:</strong> Inflation targeting regimes emphasise a credible commitment to a numerical objective for inflation in the medium to long run by anchoring inflation expectations. However, there is little guidance on how agents form these expectations or how the policy impacts the formation and evolution of these expectations. The key stylised fact of the paper is that all adjustment of expectations occurs at the time of announcement and implementation leads to increased forecast errors. Using subjective expectations, this model addresses the question about the formation and evolution of inflation expectations by incorporating a change in the monetary policy regime. Specifically, we assess whether the Kalman Gain differs prior to and post the adoption of inflation targeting. With the gain parameter being a measure of reaction to new information one would expect that with perfect anchoring of inflation expectations, the Kalman Gain should be zero. However, this paper finds evidence against anchoring of inflation expectations. </p>
+            <ul class="actions default">
+              <li><a href="#" class="button icon solid fa-download">PDF</a></li>
+              <li><a href="#" class="button icon">Slides</a></li>
+            </ul>
+        </dd>
+    <dt>(Dis)Inflation Targeting - joint with <a href="https://sites.google.com/site/luiserojasweb/">Luis Rojas</a> </dt>
+        <dd>
+          <p> <strong>Abstract:</strong> Extending the model proposed by Barro and Gordon (1983) by introducing an independent central bank, subjective expectations, and announced intermediate inflation targets this paper aims to explain the disinflation process adopted by the Latin American economies. Specifically, given the introduction of a new independent central bank we ask if the policy of the announced intermediate targets were cheap talk or the targets aided the disinflation process. We hypothesise that announcing intermediate targets reduced the cost of disinflation by reducing the inflation surprises the agents face and enabling agents to learn faster. The reduced surprises also help in developing credibility for the central bank further building the basis for faster learning. Finally, we also show that the cost of disinflation reduces when there are announced inflation targets.</p>
+            <ul class="actions small">
+              <li><a href="#" class="button icon solid fa-download">PDF</a></li>
+              <li><a href="#" class="button">Slides</a></li>
+          </ul>
+        </dd>
+      <dt>Networked Inflation Expectations: A Closer Look At Professional Forecasters - joint with <a href="https://gstockler.github.io/">Gabriela Stockler</a> </dt>
+          <dd>
+            <p>Work in Progress</p>
+            <ul class="actions small">
+              <li><a href="#" class="button icon solid fa-download">PDF</a></li>
+            </ul>
+          </dd>
+      </dl>
+

@@ -1,0 +1,26 @@
+title : "Teaching"
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Macroeconomics II"
+    content : "Universitat Autònoma de Barcelona <br> Teaching Assisstant\nIDEA Graduate Programme\nInstructor: Francesc Obiols,Winter 2020-21\nInstructor: Nezih Guner, Winter 2021-22\nInstructor: Alexander Ludwig, Winter 2022-23 (Scheduled)"
+    style : "style2 major fa-gem"
+
+  # feature item loop
+  - name : "Foundations in Equilibrium Analysis"
+    content : |
+      Barcelona School of Economics Teaching Assisstant 
+      MSc Macroeconomic Policy and Financial Markets, Autumn 2021-22 
+      Instructors: Esther Hauk & Hugo Rodriquez
+    style : "solid style2 major fa-save"
+    
+  # feature item loop
+  - name : "Macroeconomics"
+    content : |
+      Barcelona School of Economics  Teaching Assisstant  
+      MSc Macroeconomic Policy and Financial Markets, Autumn 2021-22  
+      Instructors:  Francesc Obiols & Juan Manuel Figueres 
+    style : "solid style2 major fa-chart-bar"
+    
+content: |
+  <ul><a href="uploads/TS.pdf" class="button icon solid fa-download">Teaching Statement</a> </ul>
