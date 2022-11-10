@@ -23,9 +23,9 @@ content: |
               <li><a href="uploads/DIT_Slides.pdf" class="button">Slides</a></li>
           </ul>
         </dd>
-      <dt>Networked Inflation Expectations: A Closer Look At Professional Forecasters - joint with <a href="https://gstockler.github.io/">Gabriela Stockler</a> </dt>
+      <dt>Networked Inflation Expectations: A Closer Look At Professional Forecasters - joint with <a href="https://gstockler.github.io/">Gabriela Stockler</a> <h5> Work in Progress </h5> </dt>
           <dd>
-            <p>Work in Progress</p>
+            <p> Disagreement among professional forecasters is a well documented feature of inflation expectations. We hypothesise that this disagreement is the result of a network and strategic sharing between forecasters. A preliminary theoretical model with information sharing among agents and rational expectations suggests that full information access leads to forecasts which are close to realised inflation. We now aim to use data on professional forecasters to uncover the type of network. </p>
             <ul class="actions small">
               <li><a href="uploads/NIE_Slides.pdf" class="button icon solid fa-download">Slides</a></li>
             </ul>
