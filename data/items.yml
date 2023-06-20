@@ -22,5 +22,4 @@ items:
       Instructors:  Francesc Obiols & Juan Manuel Figueres 
     style : "solid style2 major fa-chart-bar"
     
-content: |
-  <ul><a href="uploads/TS.pdf" class="button icon solid fa-download">Teaching Statement</a> </ul>
+  
