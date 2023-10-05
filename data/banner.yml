@@ -2,7 +2,8 @@
 style: "style1 orient-left content-align-center image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Mridula Duggal " 
 id : "main"
-subtitle : | "Email: mridula.duggal@glasgow.ac.uk"
+subtitle : | 
+  Email: mridula.duggal@glasgow.ac.uk
 content : |
   Hi There! I am an Adam Smith Career Development Fellow at the <a href="https://www.gla.ac.uk/schools/business/"> University of Glasgow </a>. <br> 
   <br>  
