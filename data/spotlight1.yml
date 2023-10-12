@@ -23,16 +23,15 @@ content: |
               <li><a href="uploads/DIT_Slides.pdf" class="button">Slides</a></li>
           </ul>
         </dd>
-      <dt>Networked Inflation Expectations: A Closer Look At Professional Forecasters - joint with <a href="https://gstockler.github.io/">Gabriela Stockler</a> <h5> Work in Progress </h5> </dt>
-          <dd>
-            <p> Disagreement among professional forecasters is a well documented feature of inflation expectations. We hypothesise that this disagreement is the result of a network and strategic sharing between forecasters. A preliminary theoretical model with information sharing among agents and rational expectations suggests that full information access leads to forecasts which are close to realised inflation. We now aim to use data on professional forecasters to uncover the type of network. </p>
-            <ul class="actions small">
-              <li><a href="uploads/NIE_Slides.pdf" class="button icon solid fa-download">Slides</a></li>
-            </ul>
-          </dd>
                 <dt>Evolution of Expectations with Inflation Targeting and Optimal Monetary Policy <h5> Work in Progress </h5> </dt>
                 <p> The paper investigates the responsiveness of agents’ expectation variance to shifts in monetary policy, utilising subjective expectations to ascertain the speed of learning before and after the implementation of Inflation Targeting. The analysis quantifies the Kalman Gain and the weight agents assign to the inflation target. The findings indicate a sluggish adjustment of agents’ expectations to monetary policy changes, suggesting a reliance on an extended inflation history for expectation formation. Additionally, a minor emphasis on the inflation target by agents is observed. Incorporating these insights into an optimal policy model reveals that, regardless of learning speed, a stronger weight placed on the inflation target by agents diminishes the necessity for aggressive central bank responses during high inflation periods. Furthermore, the central bank’s response aligns more closely with the rational expectations equilibrium when agents allocate a weight of 10% to the inflation target relative to their beliefs. </p>
           <dd>
+          </dd>
+                <dt>Networked Inflation Expectations: A Closer Look At Professional Forecasters - joint with <a href="https://gstockler.github.io/">Gabriela Stockler</a> <h5> Work in Progress </h5> </dt>
+          <dd>
+            <ul class="actions small">
+              <li><a href="uploads/NIE_Slides.pdf" class="button icon solid fa-download">Slides</a></li>
+            </ul>
           </dd>
       </dl>
 
