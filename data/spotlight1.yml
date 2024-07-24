@@ -11,16 +11,16 @@ content: |
         <dd>
       <p> <strong>Abstract:</strong> Do inflation expectations respond to changes in monetary policy, namely, Inflation Targeting? Subjective expectations, a survey expectations of professional forecasters for 32 Inflation Targeting countries, and an event study methodology are used to find that countries with price stability as the single objective, have a reduction in short run forecast errors. Moreover, the reduction in forecast errors is the result of a change in inflation and not expectations. The key insight of the paper is that Inflation Targeting does not have a direct impact on short-run inflation expectations. In addition, the change in forecast errors but not expectations lends support to the idea that inflation leads expectations. Finally, the paper also performs a quantitative exercise which finds that the agents attach some weight to the inflation target which central banks can leverage to build credibility ex-post by reducing inflation. </p>
             <ul class="actions default">
-              <li><a href="" class="button icon solid fa-download">PDF</a></li>
-              <li><a href="uploads/TIE_Slides.pdf" class="button icon">Slides</a></li>
+              <li><a href="uploads/" class="button icon solid fa-download">PDF</a></li>
+              <li><a href="uploads/" class="button icon">Slides</a></li>
             </ul>
         </dd>
     <dt>Optimal Disinflation with Delegation and Limited Credibility - joint with <a href="https://sites.google.com/site/luiserojasweb/">Luis Rojas</a> <br> <h5>BSE Working Paper No. 1401 <h5> <h6>New Version!<h6> <br> </dt>
         <dd>
           <p> <strong>Abstract:</strong> We examine the challenge faced by a government aiming to implement a gradual reduction in inflation by entrusting monetary policy to an independent central bank with limited credibility. Expanding upon the framework established by Barro and Gordon (1983b), we demonstrate that an optimal policy for minimizing the sacrifice ratio of disinflation involves a gradual disinflationary process coupled with the announcement of intermediate targets. The speed at which disinflation occurs strikes a balance between the objective of enhancing credibility and the associated costs of unexpected inflation. Our theoretical framework provides an explanation for the disinflationary experiences observed in Chile and Colombia during the 1990s, wherein these countries established new monetary institutions and steadily achieved single-digit inflation levels through the annual announcement of decreasing inflation targets. We argue that the use of intermediate targets played a pivotal role in their design, facilitating the establishment of credibility with lower output costs.</p>
             <ul class="actions small">
-              <li><a href="uploads/ODDLC.pdf" class="button icon solid fa-download">PDF</a></li>
-              <li><a href="uploads/DIT_Slides.pdf" class="button">Slides</a></li>
+              <li><a href="uploads/" class="button icon solid fa-download">PDF</a></li>
+              <li><a href="uploads/" class="button">Slides</a></li>
           </ul>
         </dd>
                 <dt>Evolution of Expectations with Inflation Targeting and Optimal Monetary Policy <h5> Work in Progress </h5> </dt>
@@ -30,7 +30,7 @@ content: |
                 <dt>Networked Inflation Expectations: A Closer Look At Professional Forecasters - joint with <a href="https://gstockler.github.io/">Gabriela Stockler</a> <h5> Work in Progress </h5> </dt>
           <dd>
             <ul class="actions small">
-              <li><a href="uploads/NIE_Slides.pdf" class="button icon solid fa-download">Slides</a></li>
+              <li><a href="uploads/" class="button icon solid fa-download">Slides</a></li>
             </ul>
           </dd>
       </dl>
