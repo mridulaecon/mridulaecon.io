@@ -11,7 +11,7 @@ content: |
         <dd>
       <p> <strong>Abstract:</strong> This paper investigates the response of agents’ inflation expectations to changes in monetary policy, with a focus on the adoption of Inflation Targeting. Using a New Keynesian model with rational expectations and trend inflation, I find that inflation expectations exhibit an immediate decline following policy announce- ments. I extend this analysis with an empirical investigation, using data from a survey of professional forecasters across 32 Inflation Targeting countries. Ap- plying a constant-gain learning model and an event study framework, I estimate the effect of regime changes on expectations. The results suggest that realized inflation, rather than expectations, adjusts in response to the regime shift, imply- ing that inflation dynamics lead expectations. This leads agents to over-predict inflation in the aftermath of policy shifts, highlighting the importance of concrete inflation outcomes in shaping beliefs. These findings suggest that central banks can build credibility over time by providing tangible evidence that reinforces their policy objectives. </p>
             <ul class="actions default">
-              <li><a href="uploads/TIE_XVII_20240831" class="button icon solid fa-download">PDF</a></li>
+              <li><a href="uploads/TIE_XVII_20240831.pdf" class="button icon solid fa-download">PDF</a></li>
               <li><a href="uploads/" class="button icon">Slides</a></li>
             </ul>
         </dd>
@@ -19,7 +19,7 @@ content: |
         <dd>
           <p> <strong>Abstract:</strong> We examine the challenge faced by a government aiming to implement a gradual reduction in inflation by entrusting monetary policy to an independent central bank with limited credibility. Expanding upon the framework established by Barro and Gordon (1983b), we demonstrate that an optimal policy for minimizing the sacrifice ratio of disinflation involves a gradual disinflationary process coupled with the announcement of intermediate targets. The speed at which disinflation occurs strikes a balance between the objective of enhancing credibility and the associated costs of unexpected inflation. Our theoretical framework provides an explanation for the disinflationary experiences observed in Chile and Colombia during the 1990s, wherein these countries established new monetary institutions and steadily achieved single-digit inflation levels through the annual announcement of decreasing inflation targets. We argue that the use of intermediate targets played a pivotal role in their design, facilitating the establishment of credibility with lower output costs.</p>
             <ul class="actions small">
-              <li><a href="uploads/Optimal Disinflation" class="button icon solid fa-download">PDF</a></li>
+              <li><a href="uploads/Optimal Disinflation.pdf" class="button icon solid fa-download">PDF</a></li>
               <li><a href="uploads/" class="button">Slides</a></li>
           </ul>
         </dd>
