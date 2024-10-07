@@ -4,7 +4,7 @@ id: "first"
 title : "Research"
 #button: 
   #label: "Research Statement"
-  #link: "uploads/RS.pdf"
+  #link: "uploads/"
 content: |
    <dl>
       <dt>Targeting Inflation Expectations? <br> <h5>Finalist ECB Young Economist Prize <h5> <h6> Submitted <h6> <br> </dt> 
