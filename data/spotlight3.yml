@@ -4,7 +4,7 @@ id: "third"
 title : "Teaching"
 #button: 
   #label: "Teaching Statement"
-  #link: "uploads/TS.pdf"
+  #link: "uploads/"
 content: |
 
     <h4><b>University of Glasgow </b> </h4>
