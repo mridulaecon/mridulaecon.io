@@ -15,23 +15,25 @@ content: |
           
             </ul>
         </dd>
+
     <dt>Optimal Disinflation with Delegation and Limited Credibility - joint with <a href="https://sites.google.com/site/luiserojasweb/">Luis Rojas</a> <br> <h5> <a href="https://bw.bse.eu/wp-content/uploads/2023/07/1401-file.pdf">BSE Working Paper No. 1401</a>  <h5> <br> </dt>
         <dd>
           <p> <strong>Abstract:</strong> We examine the challenge faced by a government aiming to implement a gradual reduction in inflation by entrusting monetary policy to an independent central bank with limited credibility. Expanding upon the framework established by Barro and Gordon (1983b), we demonstrate that an optimal policy for minimizing the sacrifice ratio of disinflation involves a gradual disinflationary process coupled with the announcement of intermediate targets. The speed at which disinflation occurs strikes a balance between the objective of enhancing credibility and the associated costs of unexpected inflation. Our theoretical framework provides an explanation for the disinflationary experiences observed in Chile and Colombia during the 1990s, wherein these countries established new monetary institutions and steadily achieved single-digit inflation levels through the annual announcement of decreasing inflation targets. We argue that the use of intermediate targets played a pivotal role in their design, facilitating the establishment of credibility with lower output costs.</p>
             <ul class="actions small">
               <li><a href="uploads/Optimal Disinflation.pdf" class="button icon solid fa-download">PDF</a></li>
-              
-          </ul>
-        </dd>
-                <dt>Evolution of Expectations with Inflation Targeting and Optimal Monetary Policy <h5> Work in Progress </h5> <h6> Dormant <h6> <br> </dt>
-                <p> The paper investigates the responsiveness of agents’ expectation variance to shifts in monetary policy, utilising subjective expectations to ascertain the speed of learning before and after the implementation of Inflation Targeting. The analysis quantifies the Kalman Gain and the weight agents assign to the inflation target. The findings indicate a sluggish adjustment of agents’ expectations to monetary policy changes, suggesting a reliance on an extended inflation history for expectation formation. Additionally, a minor emphasis on the inflation target by agents is observed. Incorporating these insights into an optimal policy model reveals that, regardless of learning speed, a stronger weight placed on the inflation target by agents diminishes the necessity for aggressive central bank responses during high inflation periods. Furthermore, the central bank’s response aligns more closely with the rational expectations equilibrium when agents allocate a weight of 10% to the inflation target relative to their beliefs. </p>
-          <dd>
-          </dd>
-                <dt>Networked Inflation Expectations: A Closer Look At Professional Forecasters - joint with <a href="https://gstockler.github.io/">Gabriela Stockler</a> <h5> Work in Progress </h5> </dt>
-          <dd>
-            <ul class="actions small">
-            
             </ul>
           </dd>
+          
+        <dt>Inflation Perceptions and Inflation Expectations - joint with <a href="https://sites.google.com/view/martagarciarguez/home">Marta Garcia Rodriguez</a> <h5> Work in Progress </h5> </dt>
+          <dd>
+            <ul class="actions small">
+            </ul>
+          </dd>
+          
+        <dt>Evolution of Expectations with Inflation Targeting and Optimal Monetary Policy <h5> Work in Progress </h5> <h6> Dormant <h6> <br> </dt>
+            <p> The paper investigates the responsiveness of agents’ expectation variance to shifts in monetary policy, utilising subjective expectations to ascertain the speed of learning before and after the implementation of Inflation Targeting. The analysis quantifies the Kalman Gain and the weight agents assign to the inflation target. The findings indicate a sluggish adjustment of agents’ expectations to monetary policy changes, suggesting a reliance on an extended inflation history for expectation formation. Additionally, a minor emphasis on the inflation target by agents is observed. Incorporating these insights into an optimal policy model reveals that, regardless of learning speed, a stronger weight placed on the inflation target by agents diminishes the necessity for aggressive central bank responses during high inflation periods. Furthermore, the central bank’s response aligns more closely with the rational expectations equilibrium when agents allocate a weight of 10% to the inflation target relative to their beliefs. </p>
+            <dd>
+            </dd>
+
       </dl>
 
